@@ -1,4 +1,57 @@
-- Araç yıkama fiyatı 300$ çekildi.
-- Valedeki ufak bug halledildi.
-- Artık illegal satışta paketlenmiş kokain vermeniz gerek.
-- Optimize sorunları düzeltildi.
+W, A, S, D - Movimento da personagem
+CTRL - Agachar
+LEFTSHIFT - Correr mais rápido
+SPACEBAR - Saltar
+
+◽️ A PÉ ◽️
+P/ESC   - Ver mapa
+E   - Usar Blips
+V   - Mudar câmera de personagem
+O   - Radio
+B   - Apontar o dedo
+X   - Levantar Braços / Cancelar Animação
+Q   - Esconder Rápido
+N   - Falar
+F11 - Aumentar Voz
+Z   - Menu Radial
+L   - Esconder Chat
+H - Menu da roupa
+
+◽️ NO CARRO ◽️
+F - Entrar/Sair do Veículo
+B - Colocar Cinto
+U - Menu do Veículo
+M - Trancar Veículo
+H - Aumentar luzes do Veículo
+C - Olhar para trás
+Y - Abrir bagageira
+« - Ativar Cruise Control
+/carstats - Ver Especificações do Carro
+. - Ancorar/Desancorar Barcos
+/audio - Ligar rádio do carro (músicas YouTube) 
+Para truques de mota prime SHIFT juntamente com as setas do teclado.
+
+/112 - Mensagem PSP
+/117 - Mensagem INEM
+/118 - Mensagem Mecânicos
+/707 - Contactar Governo
+/diagnostico - Identificar Causa da Morte a um player
+/vida - Saber a causa da tua morte
+ 
+F1 - Aceder ao telemóvel
+F2 - Aceder ao inventário
+F3 - Menu de animações
+F6 - Menu de Organizações
+F7 - Alterar o HUD
+F8 - Consola
+F9 - Menu de neons
+
+-------
+
+Para usar o FPS booster basta abrir a consola (F8) e digitar o seguinte:
+
+fps muitobaixo aumenta cerca de 20 fps dependendo do pc 
+fps baixo aumenta cerca de 15 fps dependendo do pc 
+fps medio aumenta cerca de 10 fps dependendo do pc 
+
+Para dar reset/desligar o FPS boost basta digitar fps reset
